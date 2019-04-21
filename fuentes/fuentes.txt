@@ -1,0 +1,7 @@
+STANDARD @IMPORT
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+
+Specify in CSS
+Use the following CSS rules to specify these families:
+
+font-family: 'Bitter', serif;
